@@ -6,6 +6,8 @@ Dosen penngampu : Alun Sujjada, S.Kom, M.T
 
 Tugas : Project
 
+Catatan : File source code ada di branch Master
+
 - Ai Dina Agustin (20210040065)
 
 - Restu Bumi Ryan Ramadhan (20210040006)
@@ -15,3 +17,4 @@ Tugas : Project
 - Willy Renaldi Naibaho (20210040004)
 
 - Yulva Cintakandida	(20210040079)
+
